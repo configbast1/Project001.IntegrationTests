@@ -12,3 +12,7 @@
 Затем: `dotnet test Project001.IntegrationTests` или откройте `Project001.IntegrationTests.csproj` в Visual Studio → Тест → Обозреватель тестов → Запустить все.
 
 Firebase и интернет не нужны.
+
+## Результат запуска
+
+![Тесты пройдены](screenshots/test-results.jpg)
